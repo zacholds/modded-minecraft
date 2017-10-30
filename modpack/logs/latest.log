@@ -1,0 +1,123 @@
+[15:35:58] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[15:36:52] [Server thread/INFO]: Loading properties
+[15:36:52] [Server thread/INFO]: Default game type: SURVIVAL
+[15:36:52] [Server thread/INFO]: Generating keypair
+[15:36:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:37:22] [Server thread/INFO]: Preparing level "world"
+[15:37:24] [Server thread/INFO]: Preparing start region for level 0
+[15:37:25] [Server thread/INFO]: Done (3.257s)! For help, type "help" or "?"
+[15:38:44] [User Authenticator #1/INFO]: UUID of player Scaffoldz is ac56e25c-ba70-48bc-a4a4-4097f44b8249
+[15:38:45] [Server thread/INFO]: Scaffoldz[/0:0:0:0:0:0:0:1:55611] logged in with entity id 438 at (75.89338249038437, 73.5, -130.03974479469613)
+[15:38:45] [Server thread/INFO]: Scaffoldz joined the game
+[15:38:52] [User Authenticator #2/INFO]: UUID of player Cooldel23 is 7d55dc48-e6bd-4511-914e-01afa8a9c5b0
+[15:38:53] [Server thread/INFO]: Cooldel23[/0:0:0:0:0:0:0:1:55615] logged in with entity id 2138 at (726.3609562589858, 63.0, -82.75980161621551)
+[15:38:53] [Server thread/INFO]: Cooldel23 joined the game
+[15:41:25] [Server thread/INFO]: [Scaffoldz: Teleported Cooldel23 to Scaffoldz]
+[15:43:20] [Server thread/INFO]: Scaffoldz lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:43:21] [Server thread/INFO]: Scaffoldz left the game
+[15:59:58] [Server thread/INFO]: Cooldel23 has just earned the achievement [Tinkerer]
+[16:08:51] [User Authenticator #3/INFO]: UUID of player Scaffoldz is ac56e25c-ba70-48bc-a4a4-4097f44b8249
+[16:08:52] [Server thread/INFO]: Scaffoldz[/0:0:0:0:0:0:0:1:55730] logged in with entity id 44624 at (77.80173843490482, 78.0, -108.96194822657016)
+[16:08:52] [Server thread/INFO]: Scaffoldz joined the game
+[16:09:25] [Server thread/INFO]: <Scaffoldz> you're muted
+[16:09:40] [Server thread/INFO]: <Scaffoldz> wanna join the othere channel?
+[16:15:25] [Server thread/INFO]: Cooldel23 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:15:25] [Server thread/INFO]: Cooldel23 left the game
+[16:15:34] [User Authenticator #4/INFO]: UUID of player Cooldel23 is 7d55dc48-e6bd-4511-914e-01afa8a9c5b0
+[16:15:35] [Server thread/INFO]: Cooldel23[/0:0:0:0:0:0:0:1:55746] logged in with entity id 57007 at (30.361915283607534, 72.0, -131.94549036129553)
+[16:15:35] [Server thread/INFO]: Cooldel23 joined the game
+[16:22:28] [Server thread/INFO]: <Cooldel23> f
+[16:26:29] [Server thread/INFO]: <Cooldel23> f
+[16:26:50] [Server thread/INFO]: [Scaffoldz: Kicked Cooldel23 from the game]
+[16:26:50] [Server thread/INFO]: Cooldel23 lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:26:50] [Server thread/INFO]: Cooldel23 left the game
+[16:27:00] [User Authenticator #5/INFO]: UUID of player Cooldel23 is 7d55dc48-e6bd-4511-914e-01afa8a9c5b0
+[16:27:01] [Server thread/INFO]: Cooldel23[/0:0:0:0:0:0:0:1:55847] logged in with entity id 78928 at (79.54019528754175, 78.0, -113.3173798339702)
+[16:27:01] [Server thread/INFO]: Cooldel23 joined the game
+[16:28:41] [Server thread/INFO]: Scaffoldz has just earned the achievement [Time to Farm!]
+[16:33:39] [Server thread/INFO]: Scaffoldz has just earned the achievement [Hot Topic]
+[16:34:56] [Server thread/INFO]: [Scaffoldz: Set own game mode to Creative Mode]
+[16:35:34] [Server thread/INFO]: [Scaffoldz: Set own game mode to Survival Mode]
+[16:35:52] [Server thread/INFO]: [Scaffoldz: Set own game mode to Creative Mode]
+[16:36:40] [Server thread/INFO]: [Scaffoldz: Set own game mode to Survival Mode]
+[16:38:26] [Server thread/INFO]: Scaffoldz lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:38:26] [Server thread/INFO]: Scaffoldz left the game
+[16:47:48] [User Authenticator #6/INFO]: UUID of player Scaffoldz is ac56e25c-ba70-48bc-a4a4-4097f44b8249
+[16:47:49] [Server thread/INFO]: Scaffoldz[/0:0:0:0:0:0:0:1:55922] logged in with entity id 110669 at (78.52643335832991, 77.0, -107.45898508233857)
+[16:47:49] [Server thread/INFO]: Scaffoldz joined the game
+[16:52:26] [Server thread/INFO]: Scaffoldz has just earned the achievement [Learning to Tinker]
+[16:52:43] [Server thread/INFO]: Scaffoldz has just earned the achievement [Smeltery Creator]
+[16:58:15] [Server thread/INFO]: Scaffoldz has just earned the achievement [Acquire Hardware]
+[16:58:15] [Server thread/INFO]: Scaffoldz has just earned the achievement [Not really better than iron]
+[16:59:07] [Server thread/INFO]: [Scaffoldz: Given [Torch] * 53 to Scaffoldz]
+[16:59:55] [Server thread/INFO]: [Scaffoldz: Set own game mode to Creative Mode]
+[17:00:29] [Server thread/INFO]: [Scaffoldz: Set own game mode to Survival Mode]
+[17:02:36] [Server thread/INFO]: [Scaffoldz: Teleported Scaffoldz to 91.5,76.5,-147.5]
+[17:02:53] [Server thread/INFO]: [Scaffoldz: Set own game mode to Creative Mode]
+[17:03:02] [Server thread/INFO]: [Scaffoldz: Set own game mode to Survival Mode]
+[17:05:13] [Server thread/INFO]: Cooldel23 was shot by Skeleton
+[17:07:37] [Server thread/INFO]: [Scaffoldz: Teleported Cooldel23 to Scaffoldz]
+[17:18:39] [Server thread/INFO]: Cooldel23 has just earned the achievement [Time to Mine!]
+[17:18:39] [Server thread/INFO]: Cooldel23 has just earned the achievement [Getting an Upgrade]
+[17:37:22] [Server thread/INFO]: Server Backup started!
+[17:37:22] [Server thread/INFO]: Turned off world auto-saving
+[17:37:22] [Server thread/INFO]: Saving...
+[17:37:22] [Server thread/INFO]: Saved the world
+[17:37:24] [Thread-44/INFO]: Server backup done in 00:00:01! (29.1MB)
+[17:37:24] [Server thread/INFO]: Turned on world auto-saving
+[17:41:59] [Server thread/INFO]: Cooldel23 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:41:59] [Server thread/INFO]: Cooldel23 left the game
+[17:42:10] [User Authenticator #7/INFO]: UUID of player Cooldel23 is 7d55dc48-e6bd-4511-914e-01afa8a9c5b0
+[17:42:11] [Server thread/INFO]: Cooldel23[/0:0:0:0:0:0:0:1:56326] logged in with entity id 221454 at (-405.86958004924384, 67.0, -255.3000000119211)
+[17:42:11] [Server thread/INFO]: Cooldel23 joined the game
+[17:45:36] [Server thread/INFO]: Scaffoldz lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:45:36] [Server thread/INFO]: Scaffoldz left the game
+[17:49:08] [User Authenticator #8/INFO]: UUID of player Scaffoldz is ac56e25c-ba70-48bc-a4a4-4097f44b8249
+[17:49:09] [Server thread/INFO]: Scaffoldz[/0:0:0:0:0:0:0:1:56346] logged in with entity id 231661 at (116.03616837538073, 25.0, -128.07278439827195)
+[17:49:09] [Server thread/INFO]: Scaffoldz joined the game
+[18:03:09] [Server thread/INFO]: Scaffoldz has just earned the achievement [DIAMONDS!]
+[18:07:50] [Server thread/INFO]: [Scaffoldz: Teleported Scaffoldz to 91.5,76.5,-147.5]
+[18:17:09] [Server thread/INFO]: [Scaffoldz: Kicked Cooldel23 from the game]
+[18:17:09] [Server thread/INFO]: Cooldel23 lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:17:09] [Server thread/INFO]: Cooldel23 left the game
+[18:17:18] [User Authenticator #9/INFO]: UUID of player Cooldel23 is 7d55dc48-e6bd-4511-914e-01afa8a9c5b0
+[18:17:19] [Server thread/INFO]: Cooldel23[/0:0:0:0:0:0:0:1:56741] logged in with entity id 286934 at (27.300000011920933, 72.85000002384186, -123.08001015725901)
+[18:17:19] [Server thread/INFO]: Cooldel23 joined the game
+[18:29:11] [Server thread/INFO]: Cooldel23 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:29:11] [Server thread/INFO]: Cooldel23 left the game
+[18:29:45] [Server thread/INFO]: Scaffoldz lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:29:45] [Server thread/INFO]: Scaffoldz left the game
+[18:43:18] [User Authenticator #10/INFO]: UUID of player Scaffoldz is ac56e25c-ba70-48bc-a4a4-4097f44b8249
+[18:43:19] [Server thread/INFO]: Scaffoldz[/0:0:0:0:0:0:0:1:56906] logged in with entity id 306773 at (31.921456507508122, 72.0, -131.9268792806655)
+[18:43:19] [Server thread/INFO]: Scaffoldz joined the game
+[18:54:16] [Server thread/INFO]: Scaffoldz lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:54:16] [Server thread/INFO]: Scaffoldz left the game
+[19:37:22] [Server thread/INFO]: Server Backup started!
+[19:37:22] [Server thread/INFO]: Turned off world auto-saving
+[19:37:22] [Server thread/INFO]: Saving...
+[19:37:22] [Server thread/INFO]: Saved the world
+[19:37:23] [Thread-59/INFO]: Server backup done in 00:00:01! (31.7MB | 60.9MB)
+[19:37:24] [Server thread/INFO]: Turned on world auto-saving
+[19:45:40] [User Authenticator #11/INFO]: UUID of player Scaffoldz is ac56e25c-ba70-48bc-a4a4-4097f44b8249
+[19:45:41] [Server thread/INFO]: Scaffoldz[/0:0:0:0:0:0:0:1:57605] logged in with entity id 323004 at (45.324020190154194, 70.0, -133.05950313813207)
+[19:45:41] [Server thread/INFO]: Scaffoldz joined the game
+[19:49:26] [Server thread/INFO]: [Scaffoldz: Set game difficulty to Peaceful]
+[19:52:30] [Server thread/INFO]: Scaffoldz lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:52:30] [Server thread/INFO]: Scaffoldz left the game
+[19:52:52] [Server thread/INFO]: Stopping the server
+[19:52:52] [Server thread/INFO]: Stopping server
+[19:52:52] [Server thread/INFO]: Saving players
+[19:52:52] [Server thread/INFO]: Saving worlds
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Dungeon
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
+[19:52:52] [Server thread/INFO]: Saving chunks for level 'world'/Mining World
